@@ -10,4 +10,4 @@ https://google.github.io/mediapipe/solutions/holistic.html
 For Webcam feed change the required number in cv2.VideoCapture()
 For Video feed save the video feed to same folder where your jupyter notebook is hosted and pass through cv2.VideoCapture('sample_2.mp4')
 
-![Pose Detection_3](https://user-images.githubusercontent.com/98158660/150631262-a2a67695-1f00-4408-aa24-168884b1a4b5.PNG)
+![image](https://user-images.githubusercontent.com/98158660/150631566-efde57e9-e709-4ca7-80d5-f6a14fcb70d8.png)
