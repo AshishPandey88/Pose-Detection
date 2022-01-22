@@ -11,3 +11,9 @@ For Webcam feed change the required number in cv2.VideoCapture()
 For Video feed save the video feed to same folder where your jupyter notebook is hosted and pass through cv2.VideoCapture('sample_2.mp4')
 
 ![image](https://user-images.githubusercontent.com/98158660/150631566-efde57e9-e709-4ca7-80d5-f6a14fcb70d8.png)
+
+
+
+Would recommend you to refer the below link on computer vision tutorials from Nick
+https://www.youtube.com/watch?v=pG4sUNDOZFg&list=PLXxGuqpiGy3DYadMxf1cwACoDzP0-ajcx&index=2
+
